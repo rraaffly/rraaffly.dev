@@ -1,17 +1,17 @@
 export const socials = [
 	{
+		title: 'Github',
+		url: 'https://github.com/rraaffly',
+		icon: 'mdi:github'
+	},
+	{
 		title: 'Linkedin',
-		url: '/#',
-		icon: 'linkedin'
+		url: 'https://www.linkedin.com/in/raaafly',
+		icon: 'mdi:linkedin'
 	},
 	{
 		title: 'Twitter',
-		url: '/#',
-		icon: 'twitter'
-	},
-	{
-		title: 'Github',
-		url: '/#',
-		icon: 'github'
+		url: 'https://x.com/bijiketapunkk',
+		icon: 'ri:twitter-x-fill'
 	}
 ];
