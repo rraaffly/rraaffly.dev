@@ -1,1 +1,1 @@
-export type Device = 'web' | 'mobile' | 'desktop' | 'shell';
+export type Platform = 'web' | 'mobile' | 'desktop' | 'shell';
