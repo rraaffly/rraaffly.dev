@@ -20,6 +20,10 @@ export const skills = [
 		icon: 'logos:bun'
 	},
 	{
+		title: 'Hono',
+		icon: 'logos:hono'
+	},
+	{
 		title: 'Next.js',
 		icon: 'logos:nextjs-icon'
 	},
