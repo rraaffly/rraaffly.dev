@@ -4,4 +4,4 @@
 	let { children, class: className = '', ...rest } = $props();
 </script>
 
-<div class={cn('mx-auto w-full px-6 lg:w-9/12', className)} {...rest}>{@render children?.()}</div>
+<section class={cn('mx-auto max-w-6xl', className)} {...rest}>{@render children?.()}</section>
