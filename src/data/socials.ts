@@ -1,4 +1,10 @@
-export const socials = [
+export type SocialData = {
+	title: string;
+	url: string;
+	icon: string;
+};
+
+export const socials: SocialData[] = [
 	{
 		title: 'Github',
 		url: 'https://github.com/rraaffly',
