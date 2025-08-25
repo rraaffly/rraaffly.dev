@@ -1,4 +1,9 @@
-export const skills = [
+export type SkillData = {
+	title: string;
+	icon: string;
+};
+
+export const skills: SkillData[] = [
 	{
 		title: 'Python',
 		icon: 'logos:python'
